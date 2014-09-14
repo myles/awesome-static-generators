@@ -9,9 +9,9 @@ Awesome Static Web Site Generators
 Blogs
 -----
 
-* [Jekyll](/jekyll/jekyll) `#Ruby`
+* [Jekyll](/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
 
 Wikis
 -----
 
-* [Gollum](/gollum/gollum) `#Ruby`
+* [Gollum](/gollum/gollum) - Gollum is a simple wiki system built on top of Git - `#Ruby`
