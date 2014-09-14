@@ -1,7 +1,7 @@
 Awesome Static Web Site Generators
 ==================================
 
-A static web site generator is an application that takes plain text and compiles them to HTML.
+A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
 - [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
   - [Blogs](#blogs)
