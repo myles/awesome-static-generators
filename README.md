@@ -1,6 +1,8 @@
 Awesome Static Web Site Generators
 ==================================
 
+A static web site generator is an application that takes plain text and compiles them to HTML.
+
 - [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
   - [Blogs](#blogs)
   - [Wikis](#wikis)
@@ -16,9 +18,10 @@ Blogs
 Wikis
 -----
 
-* [Gollum](/gollum/gollum) - Gollum is a simple wiki system built on top of Git - `#Ruby`
+* [Gollum](/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 
 Frameworks
 ----------
 
-* [Flask-Frozen)[/SimonSapin/Frozen-Flask] - Freezes a Flask application into a set of static files. - `#Python`
+* [Flask-Frozen](/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python`
+* [MiddleMan](/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Node.js`
