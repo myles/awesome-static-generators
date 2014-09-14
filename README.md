@@ -20,3 +20,5 @@ Wikis
 
 Frameworks
 ----------
+
+* [Flask-Frozen)[/SimonSapin/Frozen-Flask] - Freezes a Flask application into a set of static files. - `#Python`
