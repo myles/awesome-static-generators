@@ -7,7 +7,7 @@ A static web site generator is an application that takes plain text files and co
   - [Blogs](#blogs)
   - [Wikis](#wikis)
   - [Frameworks](#frameworks)
-- [Related Lists](#related-lists)
+- [Related Awesome](#related-awesome)
 
 Blogs
 -----
@@ -30,7 +30,11 @@ Frameworks
 * [MiddleMan](/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 * [Metalsmith](/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 
-Related Lists
-=============
+Related Awesome
+===============
+
+Awesome lists that help you with your new static web site. 
 
 * [Awesome Bootstrap](/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
+* [Creative Commons Media](/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
+
