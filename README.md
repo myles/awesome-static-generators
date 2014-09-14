@@ -27,6 +27,7 @@ A static web site generator is an application that takes plain text files and co
 * [Flask-Frozen](/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 * [MiddleMan](/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 * [Metalsmith](/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
+* [DocPad](/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 
 Other Lists of Static Web Site Generators
 -----------------------------------------
