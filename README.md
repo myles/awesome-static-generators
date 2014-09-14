@@ -9,7 +9,7 @@ Awesome Static Web Site Generators
 Blogs
 -----
 
-* [Jekyll](/jekyll/jekyll) ’#Ruby`
+* [Jekyll](/jekyll/jekyll) `#Ruby`
 
 Wikis
 -----
