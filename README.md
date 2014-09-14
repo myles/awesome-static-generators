@@ -1,4 +1,3 @@
-awesome-static-generators
+Awesome Static Generators
 =========================
 
-Awesome Static Generators
