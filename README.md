@@ -15,6 +15,7 @@ Blogs
 * [Pelican](/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 * [Hyde](/hyde/hyde) - `#Python`
 * [Octopress](/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby`
+* [Hexo](/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 
 Wikis
 -----
