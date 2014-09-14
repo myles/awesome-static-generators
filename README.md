@@ -40,3 +40,4 @@ Awesome lists that help you with your new static web site.
 
 * [Awesome Bootstrap](/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
 * [Creative Commons Media](/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
+* [Frontend Development](/dypsilon/frontend-dev-bookmarks)
