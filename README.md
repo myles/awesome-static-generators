@@ -70,6 +70,7 @@ Static Web Site Generators in Other Awesome Lists
 * [Sdogruyol/awesome-ruby - Static Page Generation](https://github.com/Sdogruyol/awesome-ruby#static-page-generation)
 * [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation)
 * [kdabir/awesome-groovy - Static Web](https://github.com/kdabir/awesome-groovy#static-web)
+* [forhappy/awesome-lua - Static Site Generator](https://github.com/forhappy/awesome-lua#static-site-generator)
 
 Other Lists of Static Web Site Geneartors
 -----------------------------------------
