@@ -43,6 +43,7 @@ Helpful Tools and Services
 --------------------------
 
 * [Brace Forms](https://forms.brace.io/) - Adds functional forms to your static web sites.
+* [Brace Charts](http://charts.brace.io/) - Creats svg based charts for your static web sites. 
 
 ### Deploy
 
