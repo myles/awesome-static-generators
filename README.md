@@ -7,6 +7,7 @@ A static web site generator is an application that takes plain text files and co
   - [Blogs](#blogs)
   - [Wikis](#wikis)
   - [Frameworks](#frameworks)
+  - [Deploy](#deploy)
   - [Web Hosts](#web-hosts)
 - [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-generators)
 - [Related Awesome](#related-awesome)
@@ -18,6 +19,8 @@ A static web site generator is an application that takes plain text files and co
 * [Hyde](https://github.com/hyde/hyde) - `#Python`
 * [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 * [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
+* [Spress](https://github.com/spress/Spress/) - `#PHP`
+* [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 
 ### Wikis
 
@@ -30,16 +33,26 @@ A static web site generator is an application that takes plain text files and co
 * [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
+* [Tags](https://github.com/braceio/tags) - `#Python`
+* [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
+* [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
+* [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
+
+### Deploy
+
+* [Harpoon](http://www.getharpoon.com/) - S3 based deploy with rollback and staging/production support. - `#Ruby`
 
 ### Web Hosts
 
 * [AWS S3](http://aws.amazon.com/s3/)
+* [Brace](http://brace.io/)
 * [Divshot](https://divshot.com/)
 
 Other Lists of Static Web Site Generators
 -----------------------------------------
 
 * [StaticGen](https://www.staticgen.com/)
+* [Static Site Generators](http://staticsitegenerators.net/)
 
 Related Awesome
 ---------------
