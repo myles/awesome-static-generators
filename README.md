@@ -12,22 +12,22 @@ A static web site generator is an application that takes plain text files and co
 
 ### Blogs
 
-* [Jekyll](/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
-* [Pelican](/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
-* [Hyde](/hyde/hyde) - `#Python`
-* [Octopress](/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
-* [Hexo](/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
+* [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
+* [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
+* [Hyde](https://github.com/hyde/hyde) - `#Python`
+* [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
+* [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 
 ### Wikis
 
-* [Gollum](/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
+* [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 
 ### Frameworks
 
-* [Flask-Frozen](/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
-* [MiddleMan](/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
-* [Metalsmith](/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
-* [DocPad](/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
+* [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
+* [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
+* [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
+* [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 
 Other Lists of Static Web Site Generators
 -----------------------------------------
@@ -39,6 +39,6 @@ Related Awesome
 
 Awesome lists that help you with your new static web site. 
 
-* [Awesome Bootstrap](/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
-* [Creative Commons Media](/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
-* [Frontend Development](/dypsilon/frontend-dev-bookmarks)
+* [Awesome Bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
+* [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
