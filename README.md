@@ -7,6 +7,7 @@ A static web site generator is an application that takes plain text files and co
   - [Blogs](#blogs)
   - [Wikis](#wikis)
   - [Frameworks](#frameworks)
+- [Helpful Tools and Services](#helpful-tools-and-services)
   - [Deploy](#deploy)
   - [Web Hosts](#web-hosts)
 - [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-generators)
@@ -37,6 +38,11 @@ A static web site generator is an application that takes plain text files and co
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
+
+Helpful Tools and Services
+--------------------------
+
+* [Brace Forms](https://forms.brace.io/) - Adds functional forms to your static web sites.
 
 ### Deploy
 
