@@ -29,6 +29,7 @@ A static web site generator is an application that takes plain text files and co
 * [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 * [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
+* [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 
 ### Web Hosts
 
