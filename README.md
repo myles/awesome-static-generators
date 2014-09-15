@@ -38,6 +38,8 @@ A static web site generator is an application that takes plain text files and co
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
+* [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
+* [Sculpin](https://github.com/sculpin/sculpin) - `#PHP`
 
 Helpful Tools and Services
 --------------------------
