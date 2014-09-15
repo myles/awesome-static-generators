@@ -10,6 +10,7 @@ A static web site generator is an application that takes plain text files and co
 - [Helpful Tools and Services](#helpful-tools-and-services)
   - [Deploy](#deploy)
   - [Web Hosts](#web-hosts)
+- [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 - [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-generators)
 - [Related Awesome](#related-awesome)
 
@@ -40,6 +41,7 @@ A static web site generator is an application that takes plain text files and co
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
 * [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 * [Sculpin](https://github.com/sculpin/sculpin) - `#PHP`
+* [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 
 Helpful Tools and Services
 --------------------------
@@ -58,7 +60,18 @@ Helpful Tools and Services
 * [Brace](http://brace.io/)
 * [Divshot](https://divshot.com/)
 
-Other Lists of Static Web Site Generators
+Static Web Site Generators in Other Awesome Lists
+-------------------------------------------------
+
+* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
+* [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
+* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
+* [markets/awesome-ruby - Static Site Generators](https://github.com/markets/awesome-ruby#static-site-generation)
+* [Sdogruyol/awesome-ruby - Static Page Generation](https://github.com/Sdogruyol/awesome-ruby#static-page-generation)
+* [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation)
+* [kdabir/awesome-groovy - Static Web](https://github.com/kdabir/awesome-groovy#static-web)
+
+Other Lists of Static Web Site Geneartors
 -----------------------------------------
 
 * [StaticGen](https://www.staticgen.com/)
@@ -72,6 +85,5 @@ Awesome lists that help you with your new static web site.
 * [Awesome Bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
 * [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
-* [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
-* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
+* [Awesome Images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources. 
+* [Awesome HTML5](https://github.com/diegocard/awesome-html5)
