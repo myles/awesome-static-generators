@@ -72,4 +72,6 @@ Awesome lists that help you with your new static web site.
 * [Awesome Bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - A curated list of free Bootstrap themes.
 * [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [awesome-python: Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator) - By @vinta
+* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
+* [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
+* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
