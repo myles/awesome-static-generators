@@ -28,6 +28,7 @@ A static web site generator is an application that takes plain text files and co
 
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
+* [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 * [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 * [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 * [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
