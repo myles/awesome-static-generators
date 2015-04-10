@@ -49,8 +49,8 @@ A static web site generator is an application that takes plain text files and co
 Helpful Tools and Services
 --------------------------
 
-* [Brace Charts](http://charts.brace.io/) - Creats svg based charts for your static web sites.
-* [Brace Forms](https://forms.brace.io/) - Adds functional forms to your static web sites.
+* [Chartspree](http://chartspree.io/) - Creats svg based charts for your static web sites.
+* [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
 * [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site. 
 
 ### Deploy
@@ -60,7 +60,6 @@ Helpful Tools and Services
 ### Web Hosts
 
 * [AWS S3](http://aws.amazon.com/s3/)
-* [Brace](http://brace.io/)
 * [Divshot](https://divshot.com/)
 
 Other Lists of Static Web Site Geneartors
