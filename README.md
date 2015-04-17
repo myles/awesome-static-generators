@@ -41,6 +41,7 @@ A static web site generator is an application that takes plain text files and co
 * [Tags](https://github.com/braceio/tags) - `#Python`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
+* [m4-bakery](http://datagrok.github.io/m4-bakery/) - `#make` `#m4`
 
 ### Wikis
 
