@@ -21,6 +21,7 @@ A static web site generator is an application that takes plain text files and co
 * [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 * [Hyde](https://github.com/hyde/hyde) - `#Python`
 * [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
+* [Journey](https://github.com/kabukky/journey) - `#Go`
 * [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 * [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 * [Spress](https://github.com/spress/Spress/) - `#PHP`
