@@ -27,6 +27,7 @@ A static web site generator is an application that takes plain text files and co
 * [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 * [Spress](https://github.com/spress/Spress/) - `#PHP`
 * [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
+* [Nikola](https://getnikola.com/) - `#Python`
 
 ### Frameworks
 
