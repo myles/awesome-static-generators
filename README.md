@@ -23,17 +23,18 @@ A static web site generator is an application that takes plain text files and co
 * [Hyde](https://github.com/hyde/hyde) - `#Python`
 * [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
 * [Journey](https://github.com/kabukky/journey) - `#Go`
+* [Nikola](https://getnikola.com/) - `#Python`
 * [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 * [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 * [Spress](https://github.com/spress/Spress/) - `#PHP`
 * [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
-* [Nikola](https://getnikola.com/) - `#Python`
 
 ### Frameworks
 
 * [Cactus](http://cactusformac.com/) - `#MacOSX`
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
+* [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 * [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 * [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 * [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
@@ -48,7 +49,6 @@ A static web site generator is an application that takes plain text files and co
 * [Tags](https://github.com/braceio/tags) - `#Python`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-* [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 
 ### Single Page
 
