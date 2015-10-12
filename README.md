@@ -10,6 +10,7 @@ A static web site generator is an application that takes plain text files and co
   - [Frameworks](#frameworks)
   - [Single Page](#signle-page)
   - [Wikis](#wikis)
+  - [Photography](#photograpy)
 - [Helpful Tools and Services](#helpful-tools-and-services)
   - [Deploy](#deploy)
   - [Web Hosts](#web-hosts)
@@ -52,7 +53,11 @@ A static web site generator is an application that takes plain text files and co
 
 ### Single Page
 
-* [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages.
+* [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
+
+### Photography
+
+* [Expose](https://github.com/Jack000/Expose) - for photoessays - `#Bash`
 
 ### Wikis
 
