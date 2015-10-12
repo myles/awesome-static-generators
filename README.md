@@ -80,6 +80,7 @@ Helpful Tools and Services
 
 * [AWS S3](http://aws.amazon.com/s3/)
 * [Divshot](https://divshot.com/)
+* [Netlify](https://www.netlify.com/)
 
 Other Lists of Static Web Site Geneartors
 -----------------------------------------
