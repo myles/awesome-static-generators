@@ -58,6 +58,7 @@ A static web site generator is an application that takes plain text files and co
 ### Photography
 
 * [Expose](https://github.com/Jack000/Expose) - for photoessays - `#Bash`
+* [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
 ### Wikis
 
