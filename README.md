@@ -7,6 +7,7 @@ A static web site generator is an application that takes plain text files and co
 
 - [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
   - [Blogs](#blogs)
+  - [Documentation](#documentation)
   - [Frameworks](#frameworks)
   - [Photography](#photograpy)
   - [Single Page](#signle-page)
@@ -31,12 +32,16 @@ A static web site generator is an application that takes plain text files and co
 * [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 * [Tinkere](http://tinkerer.me/) - `#Python`
 
+### Documentation
+
+* [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
+* [Sphinx](http://sphinx-doc.org/) - `#Python`
+
 ### Frameworks
 
 * [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 * [Cactus](http://cactusformac.com/) - `#MacOSX`
 * [coil](https://github.com/badosu/coil) - `#elixir`
-* [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 * [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
