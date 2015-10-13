@@ -50,6 +50,7 @@ A static web site generator is an application that takes plain text files and co
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
 * [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 * [Pagegen](http://pagegen.phnd.net/) - `#Python`
+* [Phrozn](http://phrozn.info/) - `#PHP`
 * [Roots](http://roots.cx/) - `#Node.js`
 * [Sculpin](https://sculpin.io/) - `#PHP`
 * [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
@@ -57,7 +58,6 @@ A static web site generator is an application that takes plain text files and co
 * [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-* [Phrozn](http://phrozn.info/) - `#PHP`
 
 ### Photography
 
