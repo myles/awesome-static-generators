@@ -32,9 +32,12 @@ A static web site generator is an application that takes plain text files and co
 ### Frameworks
 
 * [Cactus](http://cactusformac.com/) - `#MacOSX`
+* [coil](https://github.com/badosu/coil) - `#elixir`
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
+* [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
+* [Grain](https://github.com/sysgears/grain) - `#Groovy`
 * [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 * [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 * [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
@@ -42,11 +45,13 @@ A static web site generator is an application that takes plain text files and co
 * [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 * [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
+* [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 * [Pagegen](http://pagegen.phnd.net/) - `#Python`
 * [Roots](http://roots.cx/) - `#Node.js`
 * [Sculpin](https://sculpin.io/) - `#PHP`
 * [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 * [Tags](https://github.com/braceio/tags) - `#Python`
+* [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 
