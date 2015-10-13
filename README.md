@@ -29,9 +29,11 @@ A static web site generator is an application that takes plain text files and co
 * [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 * [Spress](https://github.com/spress/Spress/) - `#PHP`
 * [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
+* [Tinkere](http://tinkerer.me/) - `#Python`
 
 ### Frameworks
 
+* [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 * [Cactus](http://cactusformac.com/) - `#MacOSX`
 * [coil](https://github.com/badosu/coil) - `#elixir`
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
@@ -55,6 +57,7 @@ A static web site generator is an application that takes plain text files and co
 * [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
+* [Phrozn](http://phrozn.info/) - `#PHP`
 
 ### Photography
 
