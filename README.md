@@ -1,5 +1,4 @@
-Awesome Static Web Site Generators
-==================================
+# Awesome Static Web Site Generators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
