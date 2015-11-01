@@ -40,6 +40,7 @@ A static web site generator is an application that takes plain text files and co
 
 * [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 * [Cactus](http://cactusformac.com/) - `#MacOSX`
+* [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 * [coil](https://github.com/badosu/coil) - `#elixir`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 * [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
@@ -59,6 +60,7 @@ A static web site generator is an application that takes plain text files and co
 * [Sculpin](https://sculpin.io/) - `#PHP`
 * [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 * [Tags](https://github.com/braceio/tags) - `#Python`
+* [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
 * [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
