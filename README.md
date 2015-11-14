@@ -79,8 +79,7 @@ A static web site generator is an application that takes plain text files and co
 * [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 * [ikiwiki](https://ikiwiki.info/) - `#Haskell`
 
-Helpful Tools and Services
---------------------------
+## Helpful Tools and Services
 
 * [Chartspree](http://chartspree.io/) - Creats svg based charts for your static web sites.
 * [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
@@ -96,14 +95,12 @@ Helpful Tools and Services
 * [Divshot](https://divshot.com/)
 * [Netlify](https://www.netlify.com/)
 
-Other Lists of Static Web Site Geneartors
------------------------------------------
+## Other Lists of Static Web Site Geneartors
 
 * [Static Site Generators](http://staticsitegenerators.net/)
 * [StaticGen](https://www.staticgen.com/)
 
-Related Awesome
----------------
+## Related Awesome
 
 Awesome lists that help you with your new static web site. 
 
@@ -113,8 +110,7 @@ Awesome lists that help you with your new static web site.
 * [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-Static Web Site Generators in Other Awesome Lists
--------------------------------------------------
+## Static Web Site Generators in Other Awesome Lists
 
 * [forhappy/awesome-lua - Static Site Generator](https://github.com/forhappy/awesome-lua#static-site-generator)
 * [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation)
