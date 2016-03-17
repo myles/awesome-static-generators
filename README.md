@@ -9,7 +9,7 @@ A static web site generator is an application that takes plain text files and co
   - [Documentation](#documentation)
   - [Frameworks](#frameworks)
   - [Photography](#photograpy)
-  - [Single Page](#signle-page)
+  - [Single Page](#single-page)
   - [Wikis](#wikis)
 - [Helpful Tools and Services](#helpful-tools-and-services)
   - [Deploy](#deploy)
