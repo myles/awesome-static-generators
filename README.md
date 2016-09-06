@@ -57,6 +57,7 @@ A static web site generator is an application that takes plain text files and co
 * [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
 * [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 * [Pagegen](http://pagegen.phnd.net/) - `#Python`
+* [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 * [Phrozn](http://phrozn.info/) - `#PHP`
 * [Roots](http://roots.cx/) - `#Node.js`
 * [Sculpin](https://sculpin.io/) - `#PHP`
