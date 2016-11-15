@@ -32,6 +32,10 @@ A static web site generator is an application that takes plain text files and co
 * [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 * [Tinkere](http://tinkerer.me/) - `#Python`
 
+### CMS
+
+* [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
+
 ### Documentation
 
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
