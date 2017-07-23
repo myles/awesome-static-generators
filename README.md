@@ -39,6 +39,7 @@ A static web site generator is an application that takes plain text files and co
 ### Documentation
 
 * [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
+* [Slate](https://github.com/lord/slate) - `#Ruby`
 * [Sphinx](http://sphinx-doc.org/) - `#Python`
 
 ### Frameworks
