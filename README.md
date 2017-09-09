@@ -23,6 +23,7 @@ A static web site generator is an application that takes plain text files and co
 * [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 * [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 * [Hyde](https://github.com/hyde/hyde) - `#Python`
+* [Harp](http://harpjs.com/) = `#Node.js`
 * [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
 * [Journey](https://github.com/kabukky/journey) - `#Go`
 * [Nikola](https://getnikola.com/) - `#Python`
