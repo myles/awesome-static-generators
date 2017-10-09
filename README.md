@@ -73,6 +73,7 @@ A static web site generator is an application that takes plain text files and co
 * [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
+* [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - '#React.js'
 
 ### Photography
 
