@@ -35,6 +35,7 @@ A static web site generator is an application that takes plain text files and co
 ### CMS
 
 * [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
+* [Tipe](https://tipe.io/) - An easy to use API-first CMS engine to generate static sites. - `#JavaScript`
 
 ### Documentation
 
