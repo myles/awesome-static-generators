@@ -1,21 +1,20 @@
-# Awesome Static Web Site Generators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Static Web Site Generators
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom)
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
-
-[![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom)
 
 -   [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
 -   [Blogs](#blogs)
     -   [CMS](#cms)
     -   [Documentation](#documentation)
     -   [Frameworks](#frameworks)
-    -   [Photography](#photograpy)
+    -   [Photography](#photography)
     -   [Single Page](#single-page)
     -   [Wikis](#wikis)
 -   [Helpful Tools and Services](#helpful-tools-and-services)
-    -   [Deploy](#deploy)
     -   [Web Hosts](#web-hosts)
--   [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-generators)
+-   [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-geneartors)
 -   [Related Awesome](#related-awesome)
 -   [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 
@@ -49,7 +48,6 @@ A static web site generator is an application that takes plain text files and co
 ### Frameworks
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
-*   [Cactus](http://cactusformac.com/) - `#MacOSX`
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - for those who like to work in HTML - `#Python`
@@ -63,7 +61,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 *   [JBake](https://github.com/jbake-org/jbake) `#Java`
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
-*   [m4-bakery](http://datagrok.github.io/m4-bakery/) - `#make` `#m4`
+*   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
 *   [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 *   [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 *   [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
@@ -100,10 +98,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Chartspree](http://chartspree.io/) - Creats svg based charts for your static web sites.
 *   [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
 *   [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site.
-
-### Deploy
-
-*   [Harpoon](http://www.getharpoon.com/) - S3 based deploy with rollback and staging/production support. - `#Ruby`
 
 ### Web Hosts
 

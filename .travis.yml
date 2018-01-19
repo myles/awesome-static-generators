@@ -1,0 +1,9 @@
+language: node_js
+
+node_js:
+  - 'node'
+
+brefore_script:
+  - npm install -g remark-cli
+
+script: npm test
