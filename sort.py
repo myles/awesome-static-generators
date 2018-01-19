@@ -43,7 +43,8 @@ def main():
 
     with open('README.md', 'w+') as sorted_file:
         # Then all of the blocks are sorted individually
-        blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
+        blocks = [''.join(sorted(block, key=lambda s: s.lower()))
+                  for block in blocks]
         # And the result is written back to README.md
         sorted_file.write(''.join(blocks))
 
