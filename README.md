@@ -58,8 +58,8 @@ A static web site generator is an application that takes plain text files and co
 * [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 * [Grain](https://github.com/sysgears/grain) - `#Groovy`
-* [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 * [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
+* [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 * [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
 * [JBake](https://github.com/jbake-org/jbake) `#Java`
 * [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
@@ -71,6 +71,7 @@ A static web site generator is an application that takes plain text files and co
 * [Pagegen](http://pagegen.phnd.net/) - `#Python`
 * [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 * [Phrozn](http://phrozn.info/) - `#PHP`
+* [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - '#React.js'
 * [Roots](http://roots.cx/) - `#Node.js`
 * [Sculpin](https://sculpin.io/) - `#PHP`
 * [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
@@ -79,7 +80,6 @@ A static web site generator is an application that takes plain text files and co
 * [webgen](http://webgen.gettalong.org/) - `#Ruby`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 * [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-* [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - '#React.js'
 
 ### Photography
 
