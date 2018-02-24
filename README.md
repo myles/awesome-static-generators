@@ -105,6 +105,7 @@ A static web site generator is an application that takes plain text files and co
 *   [AWS S3](http://aws.amazon.com/s3/)
 *   [Divshot](https://divshot.com/)
 *   [Netlify](https://www.netlify.com/)
+*   [Surge](https://surge.sh/)
 
 ## Other Lists of Static Web Site Geneartors
 
