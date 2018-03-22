@@ -14,7 +14,7 @@ A static web site generator is an application that takes plain text files and co
     -   [Wikis](#wikis)
 -   [Helpful Tools and Services](#helpful-tools-and-services)
     -   [Web Hosts](#web-hosts)
--   [Other Lists of Static Web Site Geneartors](#other-lists-of-static-web-site-geneartors)
+-   [Other Lists of Static Web Site Generators](#other-lists-of-static-web-site-generators)
 -   [Related Awesome](#related-awesome)
 -   [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 
@@ -107,7 +107,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
 
-## Other Lists of Static Web Site Geneartors
+## Other Lists of Static Web Site Generators
 
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
