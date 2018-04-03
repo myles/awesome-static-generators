@@ -27,6 +27,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
+*   [Orchid Posts](https://orchid.netlify.com/OrchidPosts) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
@@ -42,6 +43,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
+*   [Orchid Javadoc](https://orchid.netlify.com/OrchidJavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
 
@@ -67,6 +69,7 @@ A static web site generator is an application that takes plain text files and co
 *   [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 *   [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
 *   [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
+*   [Orchid](https://orchid.netlify.com/) - A beautiful and truly unique documentation engine and static site generator. - `#Java` `#Kotlin`
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
 *   [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 *   [Phrozn](http://phrozn.info/) - `#PHP`
@@ -93,6 +96,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [ikiwiki](https://ikiwiki.info/) - `#Haskell`
+*   [Orchid Wiki](https://orchid.netlify.com/OrchidWiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
 ## Helpful Tools and Services
 
