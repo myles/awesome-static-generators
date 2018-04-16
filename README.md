@@ -79,6 +79,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
 *   [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
+*   [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
 *   [webgen](http://webgen.gettalong.org/) - `#Ruby`
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
