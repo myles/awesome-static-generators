@@ -66,7 +66,7 @@ A static web site generator is an application that takes plain text files and co
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 *   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
 *   [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
-*   [MiddleMan](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
+*   [Middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 *   [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
 *   [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 *   [Orchid](https://orchid.netlify.com/) - A beautiful and truly unique documentation engine and static site generator. - `#Java` `#Kotlin`
