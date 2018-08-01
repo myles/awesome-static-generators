@@ -75,7 +75,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 *   [Phrozn](http://phrozn.info/) - `#PHP`
 *   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - '#React.js'
-*   [Roots](http://roots.cx/) - `#Node.js`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
