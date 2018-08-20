@@ -29,6 +29,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.com/OrchidPosts) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
+*   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 *   [Tinkere](http://tinkerer.me/) - `#Python`
