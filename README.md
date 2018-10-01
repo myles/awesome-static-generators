@@ -98,6 +98,7 @@ A static web site generator is an application that takes plain text files and co
 ### Wikis
 
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
+*   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
 *   [ikiwiki](https://ikiwiki.info/) - `#Haskell`
 *   [Orchid Wiki](https://orchid.netlify.com/OrchidWiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
