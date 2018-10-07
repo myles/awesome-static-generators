@@ -71,7 +71,7 @@ A static web site generator is an application that takes plain text files and co
 *   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
 *   [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 *   [Middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
-*   [nanoc](https://github.com/nanoc/nanoc) - Felxiable support for small personal to large corporate web sites. - `#Ruby`
+*   [nanoc](https://github.com/nanoc/nanoc) - Flexible support for small personal to large corporate web sites. - `#Ruby`
 *   [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 *   [Orchid](https://orchid.netlify.com/) - A beautiful and truly unique documentation engine and static site generator. - `#Java` `#Kotlin`
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
@@ -105,7 +105,7 @@ A static web site generator is an application that takes plain text files and co
 
 ## Helpful Tools and Services
 
-*   [Chartspree](http://chartspree.io/) - Creats svg based charts for your static web sites.
+*   [Chartspree](http://chartspree.io/) - Creates svg based charts for your static web sites.
 *   [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
 *   [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site.
 
