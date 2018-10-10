@@ -44,6 +44,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Documentation
 
+*   [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 *   [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
 *   [Orchid Javadoc](https://orchid.netlify.com/OrchidJavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
@@ -98,6 +99,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Wikis
 
+*   [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
 *   [ikiwiki](https://ikiwiki.info/) - `#Haskell`
