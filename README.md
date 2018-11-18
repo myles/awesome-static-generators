@@ -24,16 +24,16 @@ A static web site generator is an application that takes plain text files and co
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
-*   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.  - `#Ruby`
+*   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.com/OrchidPosts) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
-*   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja 2 for themes. - `#Python`
+*   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
-*   [Tinkere](http://tinkerer.me/) - `#Python`
+*   [Tinkerer](http://tinkerer.me/) - `#Python`
 
 ### CMS
 
@@ -57,8 +57,8 @@ A static web site generator is an application that takes plain text files and co
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
-*   [Complexity](http://complexity.readthedocs.org/en/latest/) - for those who like to work in HTML - `#Python`
-*   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns = `#JavaScript` `#Node.js` `#React.js`
+*   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
+*   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
 *   [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 *   [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
@@ -78,7 +78,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
 *   [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 *   [Phrozn](http://phrozn.info/) - `#PHP`
-*   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - '#React.js'
+*   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
@@ -90,12 +90,12 @@ A static web site generator is an application that takes plain text files and co
 
 ### Photography
 
-*   [Expose](https://github.com/Jack000/Expose) - for photoessays - `#Bash`
+*   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
 ### Single Page
 
-*   [Flatdoc](http://ricostacruz.com/flatdoc/) - a small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
+*   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 
 ### Wikis
 
