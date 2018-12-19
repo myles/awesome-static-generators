@@ -1,5 +1,5 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "remark-cli": "^4.0.0",
     "remark-lint": "^6.0.1",
     "remark-lint-alphabetize-lists": "^2.0.0",
@@ -8,7 +8,11 @@
     "remark-lint-are-links-valid-duplicate": "^0.2.2",
     "remark-validate-links": "^7.0.0"
   },
+  "dependencies": {
+    "markdown": "^0.5.0"
+  }
   "scripts": {
-    "test": "remark -u validate-links README.md"
+    "test": "remark -u validate-links README.md",
+    "build": "mkdir build/ && md2html README.md > build/index.html"
   }
 }
