@@ -97,6 +97,7 @@ A static web site generator is an application that takes plain text files and co
 ### Single Page
 
 *   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
+*   [CMS.js](https://github.com/chrisdiana/cms.js) - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
 
 ### Wikis
 
