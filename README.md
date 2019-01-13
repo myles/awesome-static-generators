@@ -124,6 +124,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
+*   [HeadlessCMS](https://headlesscms.org/)
 
 ## Related Awesome
 
