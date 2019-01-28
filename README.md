@@ -63,6 +63,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 *   [Grain](https://github.com/sysgears/grain) - `#Groovy`
+*   [Gridsome](https://gridsome.org) - Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. - `#Vue.js` `#JavaScript`
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
