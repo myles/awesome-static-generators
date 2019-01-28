@@ -74,6 +74,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 *   [Middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
 *   [nanoc](https://github.com/nanoc/nanoc) - Flexible support for small personal to large corporate web sites. - `#Ruby`
+*   [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 *   [obelisk](https://github.com/BennyHallett/obelisk) - `#elixir`
 *   [Orchid](https://orchid.netlify.com/) - A beautiful and truly unique documentation engine and static site generator. - `#Java` `#Kotlin`
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
