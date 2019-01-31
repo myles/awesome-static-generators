@@ -121,6 +121,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Divshot](https://divshot.com/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
+*   [GitLab Pages](https://about.gitlab.com/product/pages/)
 
 ## Other Lists of Static Web Site Generators
 
