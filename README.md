@@ -84,6 +84,7 @@ A static web site generator is an application that takes plain text files and co
 *   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
+*   [Slides](https://designmodo.com/slides/) - `#JavaScript`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
 *   [Thunderbird](https://github.com/damcclean/thunderbird) - `#PHP`
 *   [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
