@@ -48,6 +48,7 @@ A static web site generator is an application that takes plain text files and co
 *   [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 *   [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
+*   [Docute](https://https://docute.org//) - Effortless documentation, done right. - `#JavaScript`
 *   [Orchid Javadoc](https://orchid.netlify.com/OrchidJavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
