@@ -100,7 +100,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
-*   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`   
+*   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
 
 ### Single Page
 
@@ -109,7 +109,6 @@ A static web site generator is an application that takes plain text files and co
 
 ### Wikis
 
-*   [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
 *   [ikiwiki](https://ikiwiki.info/) - `#Haskell`
