@@ -9,10 +9,10 @@
     "remark-validate-links": "^8.0.2"
   },
   "dependencies": {
-    "markdown": "^0.5.0"
+    "showdown": "^1.9.0"
   },
   "scripts": {
     "test": "remark -u validate-links README.md",
-    "build": "mkdir build/ && md2html README.md > build/index.html"
+    "build": "mkdir -p build/ && showdown makehtml -i README.md -o build/index.html"
   }
 }
