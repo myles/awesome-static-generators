@@ -49,10 +49,10 @@ A static web site generator is an application that takes plain text files and co
 *   [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
 *   [Docute](https://https://docute.org//) - Effortless documentation, done right. - `#JavaScript`
+*   [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 *   [Orchid Javadoc](https://orchid.netlify.com/OrchidJavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
-*   [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 
 ### Frameworks
 
@@ -65,9 +65,9 @@ A static web site generator is an application that takes plain text files and co
 *   [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 *   [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
+*   [Goldsmith](https://github.com/FooSoft/goldsmith) - Fast and simple pipeline-based static site generator, extensible via plugins. `#Go`
 *   [Grain](https://github.com/sysgears/grain) - `#Groovy`
 *   [Gridsome](https://gridsome.org) - Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. - `#Vue.js` `#JavaScript`
-*   [Goldsmith](https://github.com/FooSoft/goldsmith) - Fast and simple pipeline-based static site generator, extensible via plugins. `#Go`
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
@@ -99,18 +99,18 @@ A static web site generator is an application that takes plain text files and co
 ### Photography
 
 *   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
-*   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 *   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
+*   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
 ### Single Page
 
-*   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 *   [CMS.js](https://github.com/chrisdiana/cms.js) - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
+*   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 
 ### Wikis
 
-*   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
+*   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [ikiwiki](https://ikiwiki.info/) - `#Haskell`
 *   [Orchid Wiki](https://orchid.netlify.com/OrchidWiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
@@ -124,15 +124,15 @@ A static web site generator is an application that takes plain text files and co
 
 *   [AWS S3](http://aws.amazon.com/s3/)
 *   [Divshot](https://divshot.com/)
+*   [GitLab Pages](https://about.gitlab.com/product/pages/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
-*   [GitLab Pages](https://about.gitlab.com/product/pages/)
 
 ## Other Lists of Static Web Site Generators
 
+*   [HeadlessCMS](https://headlesscms.org/)
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
-*   [HeadlessCMS](https://headlesscms.org/)
 
 ## Related Awesome
 
