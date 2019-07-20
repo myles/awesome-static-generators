@@ -22,6 +22,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
+*   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
