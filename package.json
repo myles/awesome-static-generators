@@ -9,7 +9,7 @@
     "remark-validate-links": "9.0.1"
   },
   "dependencies": {
-    "showdown": "1.9.0"
+    "showdown": "1.9.1"
   },
   "scripts": {
     "test": "remark -u validate-links README.md",
