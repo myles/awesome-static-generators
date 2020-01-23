@@ -6,7 +6,7 @@
     "remark-lint-are-links-valid": "1.0.3",
     "remark-lint-are-links-valid-alive": "0.3.0",
     "remark-lint-are-links-valid-duplicate": "0.2.2",
-    "remark-validate-links": "9.1.0"
+    "remark-validate-links": "9.2.0"
   },
   "dependencies": {
     "showdown": "1.9.1"
