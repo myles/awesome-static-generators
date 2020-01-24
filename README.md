@@ -23,6 +23,7 @@ A static web site generator is an application that takes plain text files and co
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 *   [BashlyBlog](https://github.com/beli3ver/bashlyblog) - A simple blog generator from the bash. - `#Bash`
+*   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
@@ -100,6 +101,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 *   [Silssig](https://gitlab.com/rizwaan.bhikha/silssig) - Go powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Go` `#Golang`
+*   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
 ### Photography
 
