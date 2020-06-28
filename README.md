@@ -39,6 +39,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 *   [Tinkerer](http://tinkerer.me/) - `#Python`
+*   [Jamify](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React`
 
 ### CMS
 
