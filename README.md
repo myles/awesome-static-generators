@@ -24,6 +24,7 @@ A static web site generator is an application that takes plain text files and co
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 *   [BashlyBlog](https://github.com/beli3ver/bashlyblog) - A simple blog generator from the bash. - `#Bash`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
+*   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
