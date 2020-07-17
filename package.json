@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "remark-cli": "8.0.0",
+    "remark-cli": "8.0.1",
     "remark-lint": "7.0.1",
     "remark-lint-alphabetize-lists": "3.0.0",
     "remark-lint-are-links-valid": "1.0.3",
