@@ -30,6 +30,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
+*   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.com/OrchidPosts) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
