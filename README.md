@@ -70,6 +70,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
 *   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
 *   [Dewar](https://github.com/tfpk/dewar) - A flask-like static site generator. - `#Python`
+*   [Elder.js](https://elderguide.com/tech/elderjs/) - An opinionated, SEO focused, static site generator for Svelte.js. - `#JavaScript` `#Node.js` `#Svelte.js`
 *   [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 *   [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
