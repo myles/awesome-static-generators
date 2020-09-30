@@ -33,7 +33,7 @@ A static web site generator is an application that takes plain text files and co
 *   [mkws(1)](https://mkws.sh) - A bloatless, JSless simple static site generator using sh(1) code for scripting. Markdown can be rendered via [smu(1)](https://github.com/Gottox/smu). `#Bash`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
-*   [Orchid Posts](https://orchid.netlify.com/OrchidPosts) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+*   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
@@ -58,7 +58,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
 *   [Docute](https://docute.org/) - Effortless documentation, done right. - `#JavaScript`
 *   [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
-*   [Orchid Javadoc](https://orchid.netlify.com/OrchidJavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+*   [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
 
@@ -124,7 +124,7 @@ A static web site generator is an application that takes plain text files and co
 *   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [ikiwiki](https://ikiwiki.info/) - `#Perl`
-*   [Orchid Wiki](https://orchid.netlify.com/OrchidWiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+*   [Orchid Wiki](https://orchid.run/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
 ## Helpful Tools and Services
 
