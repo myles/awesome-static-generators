@@ -28,7 +28,8 @@ A static web site generator is an application that takes plain text files and co
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
-*   [Jamify](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React`
+*   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
+*   [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
