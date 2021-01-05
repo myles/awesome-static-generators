@@ -44,6 +44,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 *   [Tinkerer](http://tinkerer.me/) - `#Python`
+*   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 
 ### CMS
 
