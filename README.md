@@ -109,7 +109,7 @@ A static web site generator is an application that takes plain text files and co
 *   [webgen](http://webgen.gettalong.org/) - `#Ruby`
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-*   [Silssig](https://gitlab.com/rizwaan.bhikha/silssig) - Go powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Go` `#Golang`
+*   [Silssig](https://gitlab.com/rizwaan_bhikha/silssig) - Go powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Go` `#Golang`
 *   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
 ### Photography
