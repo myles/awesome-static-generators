@@ -150,6 +150,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
 *   [Best Static Site Generators in 2019](https://snipcart.com/blog/choose-best-static-site-generator)
+*   [Beginner’s Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 
 ## Related Awesome
 
