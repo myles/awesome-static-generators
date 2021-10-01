@@ -70,6 +70,7 @@ A static web site generator is an application that takes plain text files and co
 ### Frameworks
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
+*   [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js` 
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
