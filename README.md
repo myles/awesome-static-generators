@@ -87,7 +87,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
-*   [Ivy](https://mulholland.xyz/docs/ivy/) - It's small, elegant, and easy to use. - `#Python`
 *   [JBake](https://github.com/jbake-org/jbake) `#Java`
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 *   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
