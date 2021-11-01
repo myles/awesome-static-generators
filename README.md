@@ -75,6 +75,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
+*   [constexpr.js](https://fctorial.com/posts/constexpr.js.html) - Zero Cost Abstractions in Web Development - `#Javascript` `#Node.js`
 *   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
 *   [Dewar](https://github.com/tfpk/dewar) - A flask-like static site generator. - `#Python`
 *   [Elder.js](https://elderguide.com/tech/elderjs/) - An opinionated, SEO focused, static site generator for Svelte.js. - `#JavaScript` `#Node.js` `#Svelte.js`
