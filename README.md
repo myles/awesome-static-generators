@@ -22,7 +22,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
-*   [BlogC++](https://www.blogcpp.org/) - A static blog generator, written in C++17. - `#C++`
+*   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
