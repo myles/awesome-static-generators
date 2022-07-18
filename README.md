@@ -44,7 +44,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
-*   [Tinkerer](http://tinkerer.me/) - `#Python`
+*   [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
 *   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 *   [WP2Static](https://github.com/leonstafford) - WordPress static site generator for security, performance and cost benefits
 
