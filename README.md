@@ -55,6 +55,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
 *   [Publii](http://getpublii.com/) - Easy-to-use desktop app to generate static websites. - `#JavaScript` `#Electron`
 *   [Tipe](https://tipe.io/) - An easy to use API-first CMS engine to generate static sites. - `#JavaScript`
+*   [Wordmogul](https://wordmogul.com) - Minimalistic blogging platform with ZIP export of .md files (GUI for Hugo/Jekyll). - `#Go` `#Golang`
 
 ### Documentation
 
