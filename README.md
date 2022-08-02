@@ -23,6 +23,7 @@ A static web site generator is an application that takes plain text files and co
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 *   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
+*   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - #Python
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
@@ -90,6 +91,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
+*   [îles](https://iles.pages.dev) - Generates static sites with islands of interactivity - `#Vue`, `#Preact`, `#Svelte`, `#Solid`
 *   [JBake](https://github.com/jbake-org/jbake) `#Java`
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
 *   [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
