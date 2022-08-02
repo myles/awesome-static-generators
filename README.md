@@ -105,6 +105,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Sculpin](https://sculpin.io/) - `#PHP`
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 *   [Slides](https://designmodo.com/slides/) - `#JavaScript`
+*   [Soupault](https://soupault.app/) - A static site framework and post-processor that works with HTML element trees and can automatically manipulate them. - `#Lua` `#OCaml`
 *   [Styx](https://styx-static.github.io/styx-site/) - The Purely Functional Static Site Generator. - `#Nix`
 *   [Systatic](https://github.com/damcclean/systatic) - Systatic is a Powerful Static Site Generator for PHP Developers. - `#PHP`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
