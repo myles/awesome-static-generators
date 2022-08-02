@@ -22,6 +22,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
+*   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - #Python
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
@@ -183,3 +184,5 @@ Awesome lists that help you with your new static web site.
 *   [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
 *   [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
 *   [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
+
+
