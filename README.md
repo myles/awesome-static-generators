@@ -73,6 +73,9 @@ A static web site generator is an application that takes plain text files and co
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
 
+### Science
+*   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
+
 ### Frameworks
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
