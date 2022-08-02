@@ -119,6 +119,7 @@ A static web site generator is an application that takes plain text files and co
 ### Photography
 
 *   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
+*   [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 *   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
