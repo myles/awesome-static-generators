@@ -4,19 +4,20 @@
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
--   [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
-    -   [Blogs](#blogs)
-    -   [CMS](#cms)
-    -   [Documentation](#documentation)
-    -   [Frameworks](#frameworks)
-    -   [Photography](#photography)
-    -   [Single Page](#single-page)
-    -   [Wikis](#wikis)
--   [Helpful Tools and Services](#helpful-tools-and-services)
-    -   [Web Hosts](#web-hosts)
--   [Other Lists of Static Web Site Generators](#other-lists-of-static-web-site-generators)
--   [Related Awesome](#related-awesome)
--   [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
+- [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
+    - [Blogs](#blogs)
+    - [CMS](#cms)
+    - [Documentation](#documentation)
+    - [Science](#science)
+    - [Frameworks](#frameworks)
+    - [Photography](#photography)
+    - [Single Page](#single-page)
+    - [Wikis](#wikis)
+  - [Helpful Tools and Services](#helpful-tools-and-services)
+    - [Web Hosts](#web-hosts)
+  - [Other Lists of Static Web Site Generators](#other-lists-of-static-web-site-generators)
+  - [Related Awesome](#related-awesome)
+  - [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 
 ### Blogs
 
@@ -117,6 +118,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Slides](https://designmodo.com/slides/) - `#JavaScript`
 *   [Soupault](https://soupault.app/) - A static site framework and post-processor that works with HTML element trees and can automatically manipulate them. - `#Lua` `#OCaml`
 *   [Styx](https://styx-static.github.io/styx-site/) - The Purely Functional Static Site Generator. - `#Nix`
+*   [SvelteKit](https://kit.svelte.dev/) - SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. - `#JavaScript` `#TypeScript` `#Svelte`
 *   [Systatic](https://github.com/damcclean/systatic) - Systatic is a Powerful Static Site Generator for PHP Developers. - `#PHP`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
 *   [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
