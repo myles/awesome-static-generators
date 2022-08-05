@@ -119,7 +119,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Soupault](https://soupault.app/) - A static site framework and post-processor that works with HTML element trees and can automatically manipulate them. - `#Lua` `#OCaml`
 *   [Styx](https://styx-static.github.io/styx-site/) - The Purely Functional Static Site Generator. - `#Nix`
 *   [SvelteKit](https://kit.svelte.dev/) - SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. - `#JavaScript` `#TypeScript` `#Svelte`
-*   [Systatic](https://github.com/damcclean/systatic) - Systatic is a Powerful Static Site Generator for PHP Developers. - `#PHP`
 *   [Tags](https://github.com/braceio/tags) - `#Python`
 *   [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
 *   [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
