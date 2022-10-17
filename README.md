@@ -47,6 +47,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
 *   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
+*   [Stapy](https://www.stapy.net) - Works without any additional package and without command line on Windows. - `#Python`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 *   [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
 *   [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
