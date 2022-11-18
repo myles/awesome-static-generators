@@ -80,6 +80,9 @@ A static web site generator is an application that takes plain text files and co
 ### Science
 *   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
 
+### Code Playground
+*   [CodeStage](https://github.com/shi-yan/codestage) - A static site generator to create javascript playgrounds / interactive demos.
+
 ### Frameworks
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
