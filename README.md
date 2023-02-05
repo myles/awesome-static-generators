@@ -131,7 +131,7 @@ A static web site generator is an application that takes plain text files and co
 *   [webgen](http://webgen.gettalong.org/) - `#Ruby`
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-*   [Silssig](https://gitlab.com/olfek/silssig) - Dart <img width="20px" src="https://dart.dev/assets/shared/dart/icon/64.png" /> powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
+*   [Silssig](https://gitlab.com/olfek/silssig) - Dart powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
 *   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
 ### Photography
