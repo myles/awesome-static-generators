@@ -89,6 +89,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Bridgetown](https://www.bridgetownrb.com/) - A next-generation, progressive site generator & fullstack framework, powered by Ruby. - `#Ruby`
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [Capri](https://capri.build/) - Static site generator based on Vite with partial hydration for a variety of frameworks. - `#TypeScript` `#React.js` `#Preact` `#Solid` `#Vue` `#Svelte`
+*   [Capro](https://github.com/xy2z/capro) - Flexible PHP8 static site generator, using Blade template engine. - `#PHP` `#Blade` 
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
 *   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
