@@ -1,24 +1,38 @@
-name: CI
+name: ci
 
-on: [push]
+"on":
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
+  ci:
+    runs-on: ${{ matrix.os }}
 
     strategy:
       matrix:
-        node-version: [12.x]
+        os: [ubuntu-latest]
+        node: [16]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm install -g remark-cli
-    - run: npm lint
-      env:
-        CI: true
+      - name: Checkout 🛎
+        id: checkout
+        uses: actions/checkout@master
+
+      - name: Setup node env 🏗
+        id: setup-node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node }}
+          check-latest: true
+
+      - name: Install dependencies 👨🏻‍💻
+        id: install-npm-dependencies
+        run: npm install
+
+      - name: Run linter 👀
+        id: run-linter
+        run: npm run lint
