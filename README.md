@@ -4,6 +4,8 @@
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
+<!--lint disable alphabetize-lists-->
+
 *   [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
     *   [Blogs](#blogs)
     *   [CMS](#cms)
@@ -20,6 +22,8 @@ A static web site generator is an application that takes plain text files and co
     *   [Related Awesome](#related-awesome)
     *   [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 
+<!--lint enable alphabetize-lists-->
+
 ### Blogs
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
@@ -28,12 +32,13 @@ A static web site generator is an application that takes plain text files and co
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
+*   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
-*   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 *   [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
+*   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
@@ -52,7 +57,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 *   [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
 *   [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
-*   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 *   [WP2Static](https://github.com/leonstafford) - WordPress static site generator for security, performance and cost benefits
 *   [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
 
@@ -124,6 +128,7 @@ A static web site generator is an application that takes plain text files and co
 *   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
 *   [Scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
+*   [Silssig](https://gitlab.com/olfek/silssig) - Dart powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
 *   [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 *   [Slides](https://designmodo.com/slides/) - `#JavaScript`
 *   [Soupault](https://soupault.app/) - A static site framework and post-processor that works with HTML element trees and can automatically manipulate them. - `#Lua` `#OCaml`
@@ -135,7 +140,6 @@ A static web site generator is an application that takes plain text files and co
 *   [webgen](http://webgen.gettalong.org/) - `#Ruby`
 *   [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
-*   [Silssig](https://gitlab.com/olfek/silssig) - Dart powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
 *   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
 ### Photography
@@ -178,11 +182,11 @@ A static web site generator is an application that takes plain text files and co
 
 ## Other Lists of Static Web Site Generators
 
+*   [Beginner’s Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
+*   [Best Static Site Generators in 2019](https://snipcart.com/blog/choose-best-static-site-generator)
 *   [HeadlessCMS](https://headlesscms.org/)
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
-*   [Best Static Site Generators in 2019](https://snipcart.com/blog/choose-best-static-site-generator)
-*   [Beginner’s Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 
 ## Related Awesome
 
