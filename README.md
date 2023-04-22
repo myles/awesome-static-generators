@@ -4,21 +4,21 @@
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
-- [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
-    - [Blogs](#blogs)
-    - [CMS](#cms)
-    - [Documentation](#documentation)
-    - [Science](#science)
-    - [Frameworks](#frameworks)
-    - [Photography](#photography)
-    - [Single Page](#single-page)
-    - [Tools](#tools)
-    - [Wikis](#wikis)
-  - [Helpful Tools and Services](#helpful-tools-and-services)
-    - [Web Hosts](#web-hosts)
-  - [Other Lists of Static Web Site Generators](#other-lists-of-static-web-site-generators)
-  - [Related Awesome](#related-awesome)
-  - [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
+*   [Awesome Static Web Site Generators](#awesome-static-web-site-generators)
+    *   [Blogs](#blogs)
+    *   [CMS](#cms)
+    *   [Documentation](#documentation)
+    *   [Science](#science)
+    *   [Frameworks](#frameworks)
+    *   [Photography](#photography)
+    *   [Single Page](#single-page)
+    *   [Tools](#tools)
+    *   [Wikis](#wikis)
+    *   [Helpful Tools and Services](#helpful-tools-and-services)
+        *   [Web Hosts](#web-hosts)
+    *   [Other Lists of Static Web Site Generators](#other-lists-of-static-web-site-generators)
+    *   [Related Awesome](#related-awesome)
+    *   [Static Web Site Generators in Other Awesome Lists](#static-web-site-generators-in-other-awesome-lists)
 
 ### Blogs
 
@@ -78,19 +78,22 @@ A static web site generator is an application that takes plain text files and co
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
 
 ### Science
+
 *   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
 
 ### Code Playground
+
 *   [CodeStage](https://github.com/shi-yan/codestage) - A static site generator to create javascript playgrounds / interactive demos.
 
 ### Frameworks
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
-*   [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js` 
+*   [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js`
+*   [Blurry](https://github.com/blurry-dev/blurry) - Blurry is a schema-first, plugin-enabled static site generator. Markdown front matter directly to Schema.org types, so your content is SEO-friendly and rich results-ready out of the box. - `#Python`
 *   [Bridgetown](https://www.bridgetownrb.com/) - A next-generation, progressive site generator & fullstack framework, powered by Ruby. - `#Ruby`
 *   [Cactus](https://github.com/koenbok/Cactus) - `#Python`
 *   [Capri](https://capri.build/) - Static site generator based on Vite with partial hydration for a variety of frameworks. - `#TypeScript` `#React.js` `#Preact` `#Solid` `#Vue` `#Svelte`
-*   [Capro](https://github.com/xy2z/capro) - Flexible PHP8 static site generator, using Blade template engine. - `#PHP` `#Blade` 
+*   [Capro](https://github.com/xy2z/capro) - Flexible PHP8 static site generator, using Blade template engine. - `#PHP` `#Blade`
 *   [coil](https://github.com/badosu/coil) - `#elixir`
 *   [Complexity](http://complexity.readthedocs.org/en/latest/) - For those who like to work in HTML. - `#Python`
 *   [Cuttlebelle](https://cuttlebelle.com/) - The react static site generator that separates editing and code concerns. - `#JavaScript` `#Node.js` `#React.js`
@@ -149,7 +152,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Tools
 
-* [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator. - `#Go`
+*   [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator. - `#Go`
 
 ### Wikis
 
@@ -203,5 +206,3 @@ Awesome lists that help you with your new static web site.
 *   [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
 *   [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
 *   [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
-
-
