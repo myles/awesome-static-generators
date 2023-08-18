@@ -180,6 +180,7 @@ A static web site generator is an application that takes plain text files and co
 *   [GitLab Pages](https://about.gitlab.com/product/pages/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
+*   [Vercel](https://vercel.com)
 
 ## Other Lists of Static Web Site Generators
 
