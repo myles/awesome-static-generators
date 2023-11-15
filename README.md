@@ -49,6 +49,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [PRPL](https://prpl.dev) - A modular static site generator built for longevity - `#TypeScript` `#JavaScript` `#Node.js`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
+*   [Quartz](https://quartz.jzhao.xyz/) - Batteries-included extensible Markdown renderer for your digital garden, complete with GH Pages integration and RSS. - `#TypeScript` `#Node.js`
 *   [Sake](https://github.com/williamd1k0/sake) - A simple static site generator built with make. - `#make` `#Jinja2`
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
 *   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
