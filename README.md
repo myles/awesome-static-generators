@@ -35,6 +35,7 @@ A static web site generator is an application that takes plain text files and co
 *   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
+*   [Gozer](https://github.com/dannyvankooten/gozer) - Simple & fast static site generator in a single static binary. - `#Go` `#Golang`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
 *   [Hyde](https://github.com/hyde/hyde) - `#Python`
 *   [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
