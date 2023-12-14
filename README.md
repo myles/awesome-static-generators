@@ -43,13 +43,14 @@ A static web site generator is an application that takes plain text files and co
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
-*   [mkws](https://mkws.sh) - A simple static site generator using `sh` as a templating language. `#Bash`
+*   [mkws](https://mkws.sh) - simple static site generator `#sh`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [PRPL](https://prpl.dev) - A modular static site generator built for longevity - `#TypeScript` `#JavaScript` `#Node.js`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
+*   [Quartz](https://quartz.jzhao.xyz/) - Batteries-included extensible Markdown renderer for your digital garden, complete with GH Pages integration and RSS. - `#TypeScript` `#Node.js`
 *   [Sake](https://github.com/williamd1k0/sake) - A simple static site generator built with make. - `#make` `#Jinja2`
 *   [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
 *   [Sphido](https://sphido.org/) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
