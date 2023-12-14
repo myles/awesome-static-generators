@@ -28,6 +28,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
+*   [Ata's SSG](http://github.com/atas/ssg) - A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.
 *   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
@@ -43,7 +44,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
-*   [mkws](https://mkws.sh) - A simple static site generator using `sh` as a templating language. `#Bash`
+*   [mkws](https://mkws.sh) - simple static site generator `#sh`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
