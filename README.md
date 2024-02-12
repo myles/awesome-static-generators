@@ -129,6 +129,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Pagegen](http://pagegen.phnd.net/) - `#Python`
 *   [Phenomic](https://phenomic.io/) - Modern static website generator based on the React and Webpack ecosystem. - `#Javascript` `#Node.js` `#React.js`
 *   [Publish](https://github.com/JohnSundell/Publish) - enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options - `#Swift`
+*   [Quarto](https://quarto.org/) - An open-source scientific and technical publishing system with literate programming in multiple languages.
 *   [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
 *   [Scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 *   [Sculpin](https://sculpin.io/) - `#PHP`
