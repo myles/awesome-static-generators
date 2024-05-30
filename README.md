@@ -11,6 +11,7 @@ A static web site generator is an application that takes plain text files and co
     *   [CMS](#cms)
     *   [Documentation](#documentation)
     *   [Science](#science)
+    *   [Marketing](#marketing)
     *   [Frameworks](#frameworks)
     *   [Photography](#photography)
     *   [Single Page](#single-page)
@@ -91,6 +92,10 @@ A static web site generator is an application that takes plain text files and co
 ### Science
 
 *   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
+
+### Marketing
+
+*   [Milou](https://github.com/Tsukumogami-Software/milou) - Create beautiful and informative press kits to showcase your company and products to the medias - `#Node.js`
 
 ### Code Playground
 
