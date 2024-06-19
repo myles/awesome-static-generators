@@ -31,6 +31,7 @@ A static web site generator is an application that takes plain text files and co
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
 *   [Adduce](https://adduce.vale.rocks) - A versatile static site generator that handles both blogs and standard pages. - `#Rust`
 *   [Ata's SSG](http://github.com/atas/ssg) - A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.
+*   [Aurora](https://github.com/capjamesg/aurora) - An extensible, Python-based static site generator with support for jinja2 and markdown templates. - `#Python`
 *   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 *   [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
