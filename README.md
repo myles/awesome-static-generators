@@ -33,13 +33,17 @@ A static web site generator is an application that takes plain text files and co
 *   [Ata's SSG](http://github.com/atas/ssg) - A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.
 *   [Aurora](https://github.com/capjamesg/aurora) - An extensible, Python-based static site generator with support for jinja2 and markdown templates. - `#Python`
 *   [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
+*   [Bblogfy](https://github.com/su8/bblogfy) - A static blog generator in `shell script`
 *   [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 *   [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 *   [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
+*   [Blogfy](https://github.com/su8/blogfy) - A static blog generator in `python`
 *   [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown` 
+*   [Cblogfy](https://github.com/su8/cblogfy) - A static blog generator in `C`
 *   [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 *   [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
 *   [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
+*   [Cppblogfy](https://github.com/su8/cppblogfy) - A static blog generator in C++
 *   [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Gozer](https://github.com/dannyvankooten/gozer) - Simple & fast static site generator in a single static binary. - `#Go` `#Golang`
@@ -48,6 +52,7 @@ A static web site generator is an application that takes plain text files and co
 *   [HydePHP](https://github.com/hydephp/hyde) - Elegant and powerful static site generator with rich support for blogs, documentation sites, and more using Markdown and/or Blade - `#PHP` `#Laravel`
 *   [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
 *   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
+*   [Jblogfy](https://github.com/su8/jblogfy) - A static blog generator in `JavaScript`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
@@ -55,6 +60,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+*   [Pblogfy](https://github.com/su8/pblogfy) - A static blog generator in `Perl`
 *   [Pelican](https://github.com/getpelican/pelican) - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 *   [PRPL](https://prpl.dev) - A modular static site generator built for longevity - `#TypeScript` `#JavaScript` `#Node.js`
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
