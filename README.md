@@ -168,7 +168,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 *
 ### RSS News
--   [Liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your Newsboat feeds - `#Rust`
+-   [Liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls - `#Rust`
 
 ### Single Page
 
