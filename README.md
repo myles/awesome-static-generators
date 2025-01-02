@@ -50,6 +50,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
+*   [Krems](https://github.com/mreider/krems) - A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility. `#Ruby`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
 *   [mkws](https://mkws.sh) - simple static site generator `#sh`
 *   [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
