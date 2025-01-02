@@ -50,8 +50,10 @@ A static web site generator is an application that takes plain text files and co
 *   [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
+*   [Krems](https://github.com/mreider/krems) - A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility. `#Ruby`
 *   [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
 *   [mkws](https://mkws.sh) - simple static site generator `#sh`
+*   [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
 *   [Nikola](https://getnikola.com/) - `#Python`
 *   [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 *   [Orchid Posts](https://orchid.netlify.app) - Add Jekyll-like blogging functionality to your Orchid site. - `#Orchid` `#Java` `#Kotlin`
@@ -87,6 +89,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 *   [Doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator. - `#Rust`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
+*   [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 *   [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 *   [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
@@ -166,11 +169,15 @@ A static web site generator is an application that takes plain text files and co
 *   [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 *   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
+*
+### RSS News
+-   [Liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls - `#Rust`
 
 ### Single Page
 
 *   [CMS.js](https://github.com/chrisdiana/cms.js) - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
 *   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
+*   [linkyee](https://github.com/ZhgChgLi/linkyee) - A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. - `#Ruby`
 
 ### Tools
 
@@ -201,7 +208,8 @@ A static web site generator is an application that takes plain text files and co
 *   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
-*   [Vercel](https://vercel.com)
+*   [Vercel](https://vercel.com/)
+*   [Clouflare Pages](https://pages.cloudflare.com/)
 
 ## Other Lists of Static Web Site Generators
 
