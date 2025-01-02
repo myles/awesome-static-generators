@@ -191,7 +191,6 @@ A static web site generator is an application that takes plain text files and co
 *   [git-annex](http://git-annex.branchable.com/tips/setup_a_public_repository_on_a_web_site/) - Configure git-annex for a public repository for a static web site.
 *   [JAMStack Themes](https://jamstackthemes.dev/) - A collection of themes filterable by static site generator and CMS support.
 *   [Statichunt](https://statichunt.com/) - An open sources directory of 700+ free themes and resources for static site generators submitted by the community.
-
 *   [Fabform](https://fabform.io/) - A smart form backend service that works with all modern javascript frameworks.
 
 ### Web Hosts
