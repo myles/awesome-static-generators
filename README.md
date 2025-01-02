@@ -201,7 +201,8 @@ A static web site generator is an application that takes plain text files and co
 *   [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 *   [Netlify](https://www.netlify.com/)
 *   [Surge](https://surge.sh/)
-*   [Vercel](https://vercel.com)
+*   [Vercel](https://vercel.com/)
+*   [Clouflare Pages](https://pages.cloudflare.com/)
 
 ## Other Lists of Static Web Site Generators
 
