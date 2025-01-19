@@ -1,8 +1,15 @@
 {
+  "settings": {
+    "bullet": "-",
+    "emphasis": "_",
+    "strong": "*"
+  },
   "plugins": [
     "lint",
     "lint-alphabetize-lists",
     "validate-links",
-    "remark-lint-are-links-valid-duplicate"
+    "remark-lint-are-links-valid-duplicate",
+    "remark-preset-lint-consistent",
+    "remark-preset-lint-recommended"
   ]
 }

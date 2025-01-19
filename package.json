@@ -15,18 +15,7 @@
   },
   "scripts": {
     "lint": "remark -u validate-links README.md --frail",
-    "lintfix": "npm run lint -- -o",
+    "lintfix": "remark README.md -o",
     "build": "mkdir -p build/ && showdown makehtml -i README.md -o build/index.html"
-  },
-  "remarkConfig": {
-    "settings": {
-      "bullet": "-",
-      "emphasis": "_",
-      "strong": "*"
-    },
-    "plugins": [
-      "remark-preset-lint-consistent",
-      "remark-preset-lint-recommended"
-    ]
   }
 }

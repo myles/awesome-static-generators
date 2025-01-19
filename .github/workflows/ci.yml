@@ -28,11 +28,19 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
+      
+      - name: Cache dependencies 📦
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
       - name: Install dependencies 👨🏻‍💻
         id: install-npm-dependencies
         run: npm install
 
-      - name: Run linter 👀
-        id: run-linter
+      - name: Run the linter 👀
+        id: run-lint
         run: npm run lint
