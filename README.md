@@ -129,7 +129,6 @@ A static web site generator is an application that takes plain text files and co
 *   [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 *   [Goldsmith](https://github.com/FooSoft/goldsmith) - Fast and simple pipeline-based static site generator, extensible via plugins. `#Go`
 *   [Grain](https://github.com/sysgears/grain) - `#Groovy`
-*   [Gridsome](https://gridsome.org) - Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. - `#Vue.js` `#JavaScript`
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
 *   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
@@ -171,7 +170,10 @@ A static web site generator is an application that takes plain text files and co
 *   [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 *   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
 *   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
-*
+
+### Audio
+
+*   [Faircamp](https://simonrepp.com/faircamp/) - A static site generator for audio producers. - `#Rust`
 
 ### RSS News
 
@@ -212,6 +214,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Surge](https://surge.sh/)
 *   [Vercel](https://vercel.com/)
 *   [Clouflare Pages](https://pages.cloudflare.com/)
+*   [pgs](https://pico.sh/pgs)
 
 ## Other Lists of Static Web Site Generators
 
