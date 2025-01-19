@@ -25,7 +25,7 @@ A static web site generator is an application that takes plain text files and co
 
 <!--lint enable alphabetize-lists-->
 
-### Blogs
+### Blogs <a id="blogs" />
 
 *   [11ty](https://www.11ty.io/) - Eleventy is a simpler static site generator. - `#JavaScript` `#Node.js`
 *   [ABlog](http://ablog.readthedocs.org/) - A Sphinx extension that converts any documentation or personal website project into a full-fledged blog. - `#Python`
@@ -72,17 +72,16 @@ A static web site generator is an application that takes plain text files and co
 *   [WP2Static](https://github.com/leonstafford) - WordPress static site generator for security, performance and cost benefits
 *   [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
 
-### CMS
+### CMS <a id="cms" />
 
 *   [Arise](https://ari.se.net) - A 90s-web inspired Bash static site generator designed around slow-moving stable dependencies, modular page hierarchy, and cloud-native CI deployment. - `#Bash`
 *   [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 *   [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
 *   [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
 *   [Publii](http://getpublii.com/) - Easy-to-use desktop app to generate static websites. - `#JavaScript` `#Electron`
-*   [Tipe](https://tipe.io/) - An easy to use API-first CMS engine to generate static sites. - `#JavaScript`
 *   [Wordmogul](https://wordmogul.com) - Minimalistic blogging platform with ZIP export of .md files (GUI for Hugo/Jekyll). - `#Go` `#Golang`
 
-### Documentation
+### Documentation <a id="documentation" />
 
 *   [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 *   [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
@@ -97,19 +96,19 @@ A static web site generator is an application that takes plain text files and co
 *   [Slate](https://github.com/lord/slate) - `#Ruby`
 *   [Sphinx](http://sphinx-doc.org/) - `#Python`
 
-### Science
+### Science <a id="science" />
 
 *   [Curvenote](https://curvenote.com/docs/web) - Build scientific and technical websites for books, preprints, papers and reports using MyST Markdown and Jupyter Notebooks - `#Node.js`
 
-### Marketing
+### Marketing <a id="marketing" />
 
 *   [Milou](https://github.com/Tsukumogami-Software/milou) - Create beautiful and informative press kits to showcase your company and products to the medias - `#Node.js`
 
-### Code Playground
+### Code Playground <a id="code-playground" />
 
 *   [CodeStage](https://github.com/shi-yan/codestage) - A static site generator to create javascript playgrounds / interactive demos.
 
-### Frameworks
+### Frameworks <a id="frameworks" />
 
 *   [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 *   [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js`
@@ -164,7 +163,7 @@ A static web site generator is an application that takes plain text files and co
 *   [yst](https://github.com/jgm/yst) - Powered by YAML. - `#Haskell`
 *   [Zola](https://www.getzola.org) - Rust powered static site generator - `#Rust`
 
-### Photography
+### Photography <a id="photography" />
 
 *   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 *   [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
@@ -175,28 +174,28 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Faircamp](https://simonrepp.com/faircamp/) - A static site generator for audio producers. - `#Rust`
 
-### RSS News
+### RSS News <a id="rss-news" />
 
 *   [Liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls - `#Rust`
 
-### Single Page
+### Single Page <a id="single-page" />
 
 *   [CMS.js](https://github.com/chrisdiana/cms.js) - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
 *   [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 *   [linkyee](https://github.com/ZhgChgLi/linkyee) - A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. - `#Ruby`
 
-### Tools
+### Tools <a id="tools" />
 
 *   [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator. - `#Go`
 
-### Wikis
+### Wikis <a id="wikis" />
 
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [ikiwiki](https://ikiwiki.info/) - `#Perl`
 *   [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
 *   [Orchid Wiki](https://orchid.run/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
-## Helpful Tools and Services
+## Helpful Tools and Services <a id="helpful-tools-and-services" />
 
 *   [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 *   [Formspree](http://www.formspree.io/) - Adds functional forms to your static web sites.
@@ -204,7 +203,7 @@ A static web site generator is an application that takes plain text files and co
 *   [JAMStack Themes](https://jamstackthemes.dev/) - A collection of themes filterable by static site generator and CMS support.
 *   [Statichunt](https://statichunt.com/) - An open sources directory of 700+ free themes and resources for static site generators submitted by the community.
 
-### Web Hosts
+### Web Hosts <a id="web-hosts" />
 
 *   [AWS S3](http://aws.amazon.com/s3/)
 *   [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
@@ -216,7 +215,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Clouflare Pages](https://pages.cloudflare.com/)
 *   [pgs](https://pico.sh/pgs)
 
-## Other Lists of Static Web Site Generators
+## Other Lists of Static Web Site Generators <a id="other-lists-of-static-web-site-generators" />
 
 *   [Beginner’s Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 *   [Best Static Site Generators in 2019](https://snipcart.com/blog/choose-best-static-site-generator)
@@ -224,7 +223,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Static Site Generators](http://staticsitegenerators.net/)
 *   [StaticGen](https://www.staticgen.com/)
 
-## Related Awesome
+## Related Awesome <a id="related-awesome" />
 
 Awesome lists that help you with your new static web site.
 
@@ -236,7 +235,7 @@ Awesome lists that help you with your new static web site.
 *   [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 *   [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-## Static Web Site Generators in Other Awesome Lists
+## Static Web Site Generators in Other Awesome Lists <a id="static-web-site-generators-in-other-awesome-lists" />
 
 *   [forhappy/awesome-lua - Static Site Generator](https://github.com/forhappy/awesome-lua#static-site-generator)
 *   [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation)
