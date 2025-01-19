@@ -89,6 +89,8 @@ A static web site generator is an application that takes plain text files and co
 *   [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 *   [Doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator. - `#Rust`
 *   [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
+*   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
+    *   [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 *   [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 *   [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 *   [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
@@ -185,7 +187,6 @@ A static web site generator is an application that takes plain text files and co
 
 ### Wikis
 
-*   [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
 *   [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 *   [ikiwiki](https://ikiwiki.info/) - `#Perl`
 *   [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
