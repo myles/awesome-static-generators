@@ -170,9 +170,10 @@ A static web site generator is an application that takes plain text files and co
 - [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story - `#Python`
 - [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
-### Audio
+### Audio / Video
 
 - [Faircamp](https://simonrepp.com/faircamp/) - A static site generator for audio producers. - `#Rust`
+- [Hyper 8](https://simonrepp.com/hyper8/) - A static site generator for video. - `#Rust`
 
 ### RSS News
 
