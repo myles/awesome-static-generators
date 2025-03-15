@@ -210,7 +210,7 @@ A static web site generator is an application that takes plain text files and co
 
 - [AWS S3](http://aws.amazon.com/s3/)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
-- [Clouflare Pages](https://pages.cloudflare.com/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
 - [GitLab Pages](https://about.gitlab.com/product/pages/)
 - [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 - [Netlify](https://www.netlify.com/)
