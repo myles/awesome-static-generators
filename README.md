@@ -49,11 +49,11 @@ A static web site generator is an application that takes plain text files and co
 - [Jamify Gatsby](https://www.jamify.org/) - Publish flaring fast blogs with Gatsby and Ghost. - `#JavaScript` `#React` `#Gastby`
 - [Jamify NextJS](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost. - `#JavaScript` `#React` `#Next.js`
 - [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
-- [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `Rust`
 - [Journey](https://github.com/kabukky/journey) - `#Go`
 - [Krems](https://github.com/mreider/krems) - A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility. `#Ruby`
 - [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
 - [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
+- [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `#Rust`
 - [mkws](https://mkws.sh) - simple static site generator `#sh`
 - [Nikola](https://getnikola.com/) - `#Python`
 - [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
