@@ -70,7 +70,7 @@ A static web site generator is an application that takes plain text files and co
 - [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 - [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
 - [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
-- [WP2Static](https://github.com/leonstafford) - WordPress static site generator for security, performance and cost benefits
+- [WP2Static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
 
 ### CMS
@@ -78,6 +78,7 @@ A static web site generator is an application that takes plain text files and co
 - [Arise](https://ari.se.net) - A 90s-web inspired Bash static site generator designed around slow-moving stable dependencies, modular page hierarchy, and cloud-native CI deployment. - `#Bash`
 - [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 - [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
+- [LumeCMS](https://lume.land/cms/) - `#JavaScript` `#TypeScript` `#Deno`
 - [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
 - [Publii](http://getpublii.com/) - Easy-to-use desktop app to generate static websites. - `#JavaScript` `#Electron`
 - [Wordmogul](https://wordmogul.com) - Minimalistic blogging platform with ZIP export of .md files (GUI for Hugo/Jekyll). - `#Go` `#Golang`
@@ -136,6 +137,7 @@ A static web site generator is an application that takes plain text files and co
 - [îles](https://iles.pages.dev) - Generates static sites with islands of interactivity - `#Vue`, `#Preact`, `#Svelte`, `#Solid`
 - [JBake](https://github.com/jbake-org/jbake) `#Java`
 - [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
+- [Lume](https://lume.land/) - `#JavaScript` `#TypeScript` `#Deno`
 - [m4-bakery](https://github.com/datagrok/makebakery) - `#make` `#m4`
 - [Metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 - [Middleman](https://github.com/middleman/middleman) - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
