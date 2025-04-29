@@ -33,6 +33,7 @@ A static web site generator is an application that takes plain text files and co
 - [Ata's SSG](http://github.com/atas/ssg) - A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.
 - [Aurora](https://github.com/capjamesg/aurora) - An extensible, Python-based static site generator with support for jinja2 and markdown templates. - `#Python`
 - [BashBlog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. - `#Bash`
+- [BashWrite](https://github.com/RayCC51/BashWrite) - You can create a blog with a single Bash script, writing posts using extended Markdown without any dependencies. - `#Bash`
 - [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 - [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 - [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
