@@ -113,6 +113,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Frameworks
 
+- [AspNetStatic](https://github.com/ZarehD/AspNetStatic) - `#C#` `ASP.NET`
 - [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 - [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js`
 - [Blurry](https://github.com/blurry-dev/blurry) - Blurry is a schema-first, plugin-enabled static site generator. Markdown front matter directly to Schema.org types, so your content is SEO-friendly and rich results-ready out of the box. - `#Python`
