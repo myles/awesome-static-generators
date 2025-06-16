@@ -38,6 +38,7 @@ A static web site generator is an application that takes plain text files and co
 - [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 - [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 - [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown`
+- [BSSG](https://bssg.dragas.net/) - Flexible generator to create minimal and accessible websites, either blogs or other kind of journals.  - `#Bash`
 - [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 - [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
 - [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
@@ -52,6 +53,7 @@ A static web site generator is an application that takes plain text files and co
 - [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 - [Journey](https://github.com/kabukky/journey) - `#Go`
 - [Krems](https://github.com/mreider/krems) - A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility. `#Ruby`
+- [Litestatic](https://gitlab.com/alicela1n/litestatic) - Tiny lightweight static site generator written in Python that uses markdown and liquid to generate a website. `#Python`
 - [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
 - [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `#Rust`
 - [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
@@ -128,6 +130,7 @@ A static web site generator is an application that takes plain text files and co
 - [Dewar](https://github.com/tfpk/dewar) - A flask-like static site generator. - `#Python`
 - [Elder.js](https://elderguide.com/tech/elderjs/) - An opinionated, SEO focused, static site generator for Svelte.js. - `#JavaScript` `#Node.js` `#Svelte.js`
 - [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
+- [flatMark](https://github.com/elektrischerwalfisch/flatmark) - A lightweight, flat-file Markdown-based website generator - `#PHP` `#Markdown`
 - [Gaiden](https://github.com/kobo/gaiden) - A tool that makes it easy to create documentation with Markdown. - `#Groovy`
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - `#JavaScript` `#Node.js` `#React.js`
 - [gen\_site](https://git.sr.ht/~akkartik/gen_site) - Extremely minimalist site generator for people willing to edit raw HTML. - `#Lua`
