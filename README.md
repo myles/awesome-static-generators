@@ -72,6 +72,7 @@ A static web site generator is an application that takes plain text files and co
 - [Stapy](https://www.stapy.net) - Works without any additional package and without command line on Windows. - `#Python`
 - [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 - [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
+- [Stattic](https://github.com/getstattic/stattic) - Decentralized Publishing - `#Python`
 - [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
 - [WP2Static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
