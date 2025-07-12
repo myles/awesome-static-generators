@@ -167,6 +167,7 @@ A static web site generator is an application that takes plain text files and co
 - [Tags](https://github.com/braceio/tags) - `#Python`
 - [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
 - [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
+- [VitePress](https://vitepress.dev/) - Vite powered static site generator. - `#JavaScript` `#TypeScript` `#Vite` `#Vue.js`
 - [webgen](http://webgen.gettalong.org/) - `#Ruby`
 - [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 - [wmk](https://github.com/bk/wmk) - Flexible and versatile, uses Mako templates - `#Python`
