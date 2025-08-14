@@ -166,8 +166,8 @@ A static web site generator is an application that takes plain text files and co
 - [SvelteKit](https://kit.svelte.dev/) - SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. - `#JavaScript` `#TypeScript` `#Svelte`
 - [Tags](https://github.com/braceio/tags) - `#Python`
 - [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
-- [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
 - [Vitepress](https://vitepress.dev/) - Vite & Vue Powered Static Site Generator. - `#Vue` `#TypeScript`
+- [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
 - [webgen](http://webgen.gettalong.org/) - `#Ruby`
 - [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 - [wmk](https://github.com/bk/wmk) - Flexible and versatile, uses Mako templates - `#Python`
