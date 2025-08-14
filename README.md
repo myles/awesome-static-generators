@@ -55,6 +55,7 @@ A static web site generator is an application that takes plain text files and co
 - [Krems](https://github.com/mreider/krems) - A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility. `#Ruby`
 - [Litestatic](https://gitlab.com/alicela1n/litestatic) - Tiny lightweight static site generator written in Python that uses markdown and liquid to generate a website. `#Python`
 - [Makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders `#Python`
+- [Makko](https://forge.starlightnet.work/Team/Makko) - A simple, lightweight, and portable Static Site Generator written in Zig. - `#Zig`
 - [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `#Rust`
 - [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
 - [mkws](https://mkws.sh) - simple static site generator `#sh`
