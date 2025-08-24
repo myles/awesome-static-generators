@@ -38,6 +38,7 @@ A static web site generator is an application that takes plain text files and co
 - [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 - [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 - [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown`
+- [Bonobo](https://github.com/rockhardandrew/bonobo) - A static site generator so simple and easy a bonobo could use it. - `C`
 - [BSSG](https://bssg.dragas.net/) - Flexible generator to create minimal and accessible websites, either blogs or other kind of journals.  - `#Bash`
 - [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 - [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
