@@ -38,6 +38,7 @@ A static web site generator is an application that takes plain text files and co
 - [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
 - [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 - [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown`
+- [Bonobo](https://github.com/rockhardandrew/bonobo) - A static site generator so simple and easy a bonobo could use it. - `C`
 - [BSSG](https://bssg.dragas.net/) - Flexible generator to create minimal and accessible websites, either blogs or other kind of journals.  - `#Bash`
 - [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 - [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
@@ -77,6 +78,7 @@ A static web site generator is an application that takes plain text files and co
 - [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
 - [WP2Static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
+- [Zeno](https://github.com/mine3krish/zeno) - Turn your Markdown files into a full-featured blog with zero hassle - `#Javascript` `#Markdown`
 
 ### CMS
 
@@ -99,6 +101,7 @@ A static web site generator is an application that takes plain text files and co
   - [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
+- [OkiDoki](https://jbeejones.github.io/okidoki-website/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
@@ -171,6 +174,7 @@ A static web site generator is an application that takes plain text files and co
 - [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
 - [Vitepress](https://vitepress.dev/) - Vite & Vue Powered Static Site Generator. - `#Vue` `#TypeScript`
 - [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
+- [wbsx](https://codeberg.org/espend/wbsx) - Build web sites with XSLT. - `#Go` `#Cgo` `#XSLT`
 - [webgen](http://webgen.gettalong.org/) - `#Ruby`
 - [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 - [wmk](https://github.com/bk/wmk) - Flexible and versatile, uses Mako templates - `#Python`
