@@ -105,8 +105,6 @@ A static web site generator is an application that takes plain text files and co
 - [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
-- [OkiDoki](https://jbeejones.github.io/okidoki-website/) - `#markdown` `#Handlebars` `#JavaScript`
-
 
 ### Science
 
