@@ -97,7 +97,7 @@ A static web site generator is an application that takes plain text files and co
 - [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 - [Doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator. - `#Rust`
 - [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
-- [eziwiki](https://github.com/i3months/eziwiki) - Modern documentation and wiki generator - `#Next.js` `#TypeScript`
+- [eziwiki](https://github.com/i3months/eziwiki) - Modern documentation and wiki generator. - `#Next.js` `#TypeScript`
 - [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
   - [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
