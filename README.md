@@ -103,7 +103,7 @@ A static web site generator is an application that takes plain text files and co
   - [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
-- [OkiDoki](https://jbeejones.github.io/okidoki-website/) - `#Markdown` `#Handlebars` `#JavaScript`
+- [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
