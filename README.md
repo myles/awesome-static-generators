@@ -44,6 +44,7 @@ A static web site generator is an application that takes plain text files and co
 - [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
 - [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
 - [DriftNotes](https://github.com/rohitfarmer/driftnotes) - A lightweight journaling engine for thoughts that drift between tweets and blogs. - `#Python` `#Markdown` `JavaScript`
+- [DropPages](https://droppages.com/static-site-generator) - Turn a Dropbox folder into a static website.
 - [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 - [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 - [Gozer](https://github.com/dannyvankooten/gozer) - Simple & fast static site generator in a single static binary. - `#Go` `#Golang`
@@ -227,6 +228,7 @@ A static web site generator is an application that takes plain text files and co
 - [AWS S3](http://aws.amazon.com/s3/)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
+- [DropPages](https://droppages.com/static-website-hosting)
 - [GitLab Pages](https://about.gitlab.com/product/pages/)
 - [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/)
 - [Netlify](https://www.netlify.com/)
