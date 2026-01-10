@@ -103,7 +103,6 @@ A static web site generator is an application that takes plain text files and co
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 - [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
-- [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
 
@@ -211,7 +210,7 @@ A static web site generator is an application that takes plain text files and co
 - [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 - [ikiwiki](https://ikiwiki.info/) - `#Perl`
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
-- [Orchid Wiki](https://orchid.run/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+- [Orchid Wiki](https://orchidhq.github.io/Orchid/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
 ## Helpful Tools and Services
 
