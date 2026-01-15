@@ -43,6 +43,7 @@ A static web site generator is an application that takes plain text files and co
 - [Cobalt](https://cobalt-org.github.io) - A Rust static site generator. - `#Rust`
 - [Coleslaw](https://github.com/coleslaw-org/coleslaw) - Flexible blog and site generator with a lot of plugins. - `#CommonLisp`
 - [CommonMark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog) - Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the `public`-folder. Supports articles as well as listing pages `#PHP`
+- [DriftNotes](https://github.com/rohitfarmer/driftnotes) - A lightweight journaling engine for thoughts that drift between tweets and blogs. - `#Python` `#Markdown` `JavaScript`
 - [Franklin](https://franklinjl.org/) - A static site generator written in Julia that is primarily intended for technical blogging. - `#Julia`
 - [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 - [Gozer](https://github.com/dannyvankooten/gozer) - Simple & fast static site generator in a single static binary. - `#Go` `#Golang`
@@ -71,10 +72,10 @@ A static web site generator is an application that takes plain text files and co
 - [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
 - [Sphido](https://sphido.cz) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
 - [Spress](https://github.com/spress/Spress/) - `#PHP`
-- [Stapy](https://www.stapy.net) - Works without any additional package and without command line on Windows. - `#Python`
 - [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 - [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
 - [Stattic](https://github.com/getstattic/stattic) - Decentralized Publishing - `#Python`
+- [Statue](https://statue.dev/) - Svelte-based static site generator with included component library built on top SvelteKit. - `#Svelte`
 - [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
 - [WP2Static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
@@ -92,6 +93,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Documentation
 
+- [docmd](https://github.com/mgks/docmd) - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
 - [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 - [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 - [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
@@ -102,8 +104,7 @@ A static web site generator is an application that takes plain text files and co
   - [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
-- [OkiDoki](https://jbeejones.github.io/okidoki-website/) - `#Markdown` `#Handlebars` `#JavaScript`
-- [Orchid Javadoc](https://orchid.run/plugins/orchidjavadoc) - Create beautiful Javadocs for your project within your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+- [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
 
@@ -211,7 +212,7 @@ A static web site generator is an application that takes plain text files and co
 - [Gollum](https://github.com/gollum/gollum) - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 - [ikiwiki](https://ikiwiki.info/) - `#Perl`
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
-- [Orchid Wiki](https://orchid.run/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
+- [Orchid Wiki](https://orchidhq.github.io/Orchid/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
 ## Helpful Tools and Services
 
