@@ -200,6 +200,7 @@ A static web site generator is an application that takes plain text files and co
 ### Single Page
 
 - [CMS.js](https://github.com/chrisdiana/cms.js) - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Python-based static site generator that produces a single HTML file from markdown analysis reports — terminal-style DNA analysis dashboard with inline CSS/JS. - `#Python`
 - [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 - [linkyee](https://github.com/ZhgChgLi/linkyee) - A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. - `#Ruby`
 
@@ -265,3 +266,4 @@ Awesome lists that help you with your new static web site.
 - [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators)
 - [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator)
 - [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators)
+
