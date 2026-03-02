@@ -86,6 +86,7 @@ A static web site generator is an application that takes plain text files and co
 - [Arise](https://ari.se.net) - A 90s-web inspired Bash static site generator designed around slow-moving stable dependencies, modular page hierarchy, and cloud-native CI deployment. - `#Bash`
 - [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 - [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
+- [LightCMS](https://github.com/jonradoff/lightcms) - AI-native CMS built with Go and MongoDB. Generates static HTML pages from templates. Features REST API, MCP integration with 41 tools, asset management, themes, collections, redirects, and content versioning. - `#Go`
 - [LumeCMS](https://lume.land/cms/) - `#JavaScript` `#TypeScript` `#Deno`
 - [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
 - [Publii](http://getpublii.com/) - Easy-to-use desktop app to generate static websites. - `#JavaScript` `#Electron`
@@ -99,6 +100,7 @@ A static web site generator is an application that takes plain text files and co
 - [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 - [Doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator. - `#Rust`
 - [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
+- [eziwiki](https://github.com/i3months/eziwiki) - Modern documentation and wiki generator. - `#Next.js` `#TypeScript`
 - [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
   - [HonKit](https://github.com/honkit/honkit) - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 - [mdBook](https://rust-lang.github.io/mdBook) - Create book from markdown files. - `#Rust`
@@ -162,6 +164,7 @@ A static web site generator is an application that takes plain text files and co
 - [Publish](https://github.com/JohnSundell/Publish) - enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options - `#Swift`
 - [Quarto](https://quarto.org/) - An open-source scientific and technical publishing system with literate programming in multiple languages.
 - [React Static](https://github.com/nozzle/react-static) - A progressive static-site framework for React. - `#React.js`
+- [Saga](https://github.com/loopwerk/saga) - A code-first static site generator in Swift. No config files, no implicit behavior, no magic conventions. - `#Swift`
 - [Scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 - [Sculpin](https://sculpin.io/) - `#PHP`
 - [Silssig](https://gitlab.com/olfek/silssig) - Dart powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
