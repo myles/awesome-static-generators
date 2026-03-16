@@ -168,6 +168,7 @@ A static web site generator is an application that takes plain text files and co
 - [Saga](https://github.com/loopwerk/saga) - A code-first static site generator in Swift. No config files, no implicit behavior, no magic conventions. - `#Swift`
 - [Scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 - [Sculpin](https://sculpin.io/) - `#PHP`
+- [seite](https://seite.sh) - AI-native static site generator with built-in MCP server and Claude Code integration. - `#Rust`
 - [Silssig](https://gitlab.com/olfek/silssig) - Dart powered static site generator for GitHub/GitLab pages and other similar services with support for markdown. - `#Dart`
 - [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 - [Slides](https://designmodo.com/slides/) - `#JavaScript`
