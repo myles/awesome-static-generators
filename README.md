@@ -107,6 +107,7 @@ A static web site generator is an application that takes plain text files and co
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 - [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
+- [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
 
 ### Science
