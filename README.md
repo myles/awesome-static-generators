@@ -210,6 +210,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Tools
 
+- [markdown-repository](https://github.com/varstatt/markdown-repository) - Query directories of .md/.mdx files by frontmatter fields — sort, filter, limit, with a Firestore-style API. - `#TypeScript`
 - [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator. - `#Go`
 
 ### Wikis
