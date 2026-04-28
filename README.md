@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/myles-awesome-static-generators-badge.png)](https://mseep.ai/app/myles-awesome-static-generators)
+
 # Awesome Static Web Site Generators
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom)
