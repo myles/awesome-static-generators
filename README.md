@@ -70,6 +70,7 @@ A static web site generator is an application that takes plain text files and co
 - [Quartz](https://quartz.jzhao.xyz/) - Batteries-included extensible Markdown renderer for your digital garden, complete with GH Pages integration and RSS. - `#TypeScript` `#Node.js`
 - [Sake](https://github.com/williamd1k0/sake) - A simple static site generator built with make. - `#make` `#Jinja2`
 - [Serum](https://dalgona.github.io/Serum/) - Serum is a static website generator written in Elixir Programming Language. - `#Elixir`
+- [SkunkHTML](https://github.com/mg0x7BE/skunk-html) - The simplest way to run a blog on GitHub Pages with Markdown and GitHub Actions. - `#F#`
 - [Sphido](https://sphido.cz) - A rocket 🚀 fast, lightweight, static site generator `#Node.js`
 - [Spress](https://github.com/spress/Spress/) - `#PHP`
 - [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
@@ -107,6 +108,7 @@ A static web site generator is an application that takes plain text files and co
 - [MkDocs](https://www.mkdocs.org/) - Write your docs in Markdown and configure the generator with a single YAML configuration file. - `#Python`
 - [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
+- [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
 
 ### Science
