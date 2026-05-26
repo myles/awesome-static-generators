@@ -100,6 +100,7 @@ A static web site generator is an application that takes plain text files and co
 - [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
 - [Docsify](https://docsify.js.org/) - A magical documentation site generator. `#JavaScript` `#Node.js`
 - [Doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator. - `#Rust`
+- [Doctor](https://doctorrrrbuild.github.io/) - A super easy document site building language and template - `#Doctor`
 - [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites. - `#JavaScript` `#React`
 - [eziwiki](https://github.com/i3months/eziwiki) - Modern documentation and wiki generator. - `#Next.js` `#TypeScript`
 - [GitBook](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
@@ -110,7 +111,6 @@ A static web site generator is an application that takes plain text files and co
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
-- [Doctor](https://doctorrrrbuild.github.io/) - A super easy document site building language and template - `#Doctor`
 
 ### Science
 
