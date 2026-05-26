@@ -111,6 +111,7 @@ A static web site generator is an application that takes plain text files and co
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
+- [Doctor](https://doctorrrrbuild.github.io/) - A super easy document site building language and template - `#Doctor`
 
 ### Science
 
