@@ -96,6 +96,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Documentation
 
+- [Asciidoctor](https://asciidoctor.org/) - A fast text processor & publishing toolchain for converting [AsciiDoc](https://asciidoc.org/) to HTML5, DocBook & more. - `#Ruby #AsciiDoc`
 - [docmd](https://github.com/mgks/docmd) - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
 - [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 - [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
