@@ -60,6 +60,7 @@ A static web site generator is an application that takes plain text files and co
 - [Makko](https://forge.starlightnet.work/Team/Makko) - A simple, lightweight, and portable Static Site Generator written in Zig. - `#Zig`
 - [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `#Rust`
 - [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
+- [Mastro](https://mastrojs.github.io/) – Implemented in just ~800 lines of TypeScript with zero dependencies, Mastro builds fast MPAs. `#JavaScript`, `#TypeScript`, `#Node.js`, `#Deno`, `#Bun`, `#Markdown`
 - [mkws](https://mkws.sh) - simple static site generator `#sh`
 - [Nikola](https://getnikola.com/) - `#Python`
 - [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
