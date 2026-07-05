@@ -206,6 +206,7 @@ A static web site generator is an application that takes plain text files and co
 ### RSS News
 
 - [Liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls - `#Rust`
+- [StaticFeed](https://github.com/jackydangelo/staticfeed) - A concurrent, zero-cost RSS aggregation pipeline and static site generator powered by GitHub Actions. - `#Python`
 
 ### Single Page
 
