@@ -36,6 +36,7 @@ A static web site generator is an application that takes plain text files and co
 - [BashWrite](https://github.com/RayCC51/BashWrite) - You can create a blog with a single Bash script, writing posts using extended Markdown without any dependencies. - `#Bash`
 - [Blag](https://github.com/venthur/blag) - blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. - `#Python`
 - [BlazorStatic](https://github.com/tesar-tech/BlazorStatic) - Use ASP.NET Blazor to generate static pages. - `#.NET` `#C#`
+- [blog.sh](https://blogsh.app) - Posts are JSON files, the site is a static build, and comments live on the Fediverse. - `#Ruby` `#Bash`
 - [BlogC++](https://code.rosaelefanten.org/blogcpp/) - A static blog generator, written in C++17. - `#C++`
 - [Bloggrify](https://bloggrify.com/) - A static blog generator using Markdown, built on top of Nuxt-Content. - `#Vue.js` `#Markdown`
 - [Bonobo](https://github.com/rockhardandrew/bonobo) - A static site generator so simple and easy a bonobo could use it. - `C`
