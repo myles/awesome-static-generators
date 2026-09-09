@@ -193,6 +193,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Photography
 
+- [DD Photos](https://github.com/dougdonohoe/ddphotos) - Fast, distraction-free albums for sharing photos and videos, with optional in-browser password protection. - `#Go` `#SvelteKit`
 - [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 - [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 - [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story - `#Python`
