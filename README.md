@@ -14,6 +14,7 @@ A static web site generator is an application that takes plain text files and co
   - [Marketing](#marketing)
   - [Frameworks](#frameworks)
   - [Photography](#photography)
+  - [Portfolio](#portfolio)
   - [Single Page](#single-page)
   - [Tools](#tools)
   - [Wikis](#wikis)
@@ -60,6 +61,7 @@ A static web site generator is an application that takes plain text files and co
 - [Makko](https://forge.starlightnet.work/Team/Makko) - A simple, lightweight, and portable Static Site Generator written in Zig. - `#Zig`
 - [Mandy](https://github.com/alyxshang/mandy) - A light and fast static-site generator. :sparkles: :fire: - `#Rust`
 - [Marmite](https://github.com/rochacbruno/marmite) - Zero Config, Simple and fast, just run it on a folder with markdown files and done! `#Rust`
+- [Mastro](https://mastrojs.github.io/) – Implemented in just ~800 lines of TypeScript with zero dependencies, Mastro builds fast MPAs. `#JavaScript`, `#TypeScript`, `#Node.js`, `#Deno`, `#Bun`, `#Markdown`
 - [mkws](https://mkws.sh) - simple static site generator `#sh`
 - [Nikola](https://getnikola.com/) - `#Python`
 - [Octopress](https://github.com/imathis/octopress) - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
@@ -97,6 +99,7 @@ A static web site generator is an application that takes plain text files and co
 ### Documentation
 
 - [Abbaye](https://vit.am/~ololduck/abbaye/latest/) - Public Software repository browsing/cloning, release pages and software documentation builder.
+- [Cortex](https://github.com/cortex-docs/cortex) - Builds static HTML API documentation from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown. - `#TypeScript` `#Node.js`
 - [docmd](https://github.com/mgks/docmd) - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
 - [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 - [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
@@ -114,6 +117,7 @@ A static web site generator is an application that takes plain text files and co
 - [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
 - [Stagit](https://codemadness.org/stagit.html) - A complete browsable history of git repositories.
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
+- [Wiki Pilot](https://wikipilot.dev/) - Generates a documentation wiki from a codebase; each page records its source files and flags itself when they change. - `#JavaScript`
 
 ### Science
 
@@ -185,7 +189,7 @@ A static web site generator is an application that takes plain text files and co
 - [Urubu](http://urubu.jandecaluwe.com/) - `#Python`
 - [Vitepress](https://vitepress.dev/) - Vite & Vue Powered Static Site Generator. - `#Vue` `#TypeScript`
 - [VuePress](https://vuepress.vuejs.org/) - Vue.js powered static site generator. - `#JavaScript`
-- [wbsx](https://codeberg.org/espend/wbsx) - Build web sites with XSLT. - `#Go` `#Cgo` `#XSLT`
+- [wbsx](https://wbsx.codeberg.page) - Build web sites with XSLT. - `#Go` `#Cgo` `#XSLT`
 - [webgen](http://webgen.gettalong.org/) - `#Ruby`
 - [Wintersmith](https://github.com/jnordberg/wintersmith) - `#JavaScript` `#Node.js`
 - [wmk](https://github.com/bk/wmk) - Flexible and versatile, uses Mako templates - `#Python`
@@ -194,10 +198,15 @@ A static web site generator is an application that takes plain text files and co
 
 ### Photography
 
+- [DD Photos](https://github.com/dougdonohoe/ddphotos) - Fast, distraction-free albums for sharing photos and videos, with optional in-browser password protection. - `#Go` `#SvelteKit`
 - [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 - [foto](https://github.com/waynezhang/foto) - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 - [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story - `#Python`
 - [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
+
+### Portfolio
+
+- [microfolio](https://github.com/aker-dev/microfolio) - A file-based static site generator for creatives to showcase their work, with grid, list and map views. - `#Svelte` `#JavaScript` `#Markdown`
 
 ### Audio / Video
 
