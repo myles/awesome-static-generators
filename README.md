@@ -88,7 +88,7 @@ A static web site generator is an application that takes plain text files and co
 - [Arise](https://ari.se.net) - A 90s-web inspired Bash static site generator designed around slow-moving stable dependencies, modular page hierarchy, and cloud-native CI deployment. - `#Bash`
 - [Datenstrom Yellow](https://datenstrom.se/yellow/) - For people who make small websites. - `#PHP`
 - [Lektor](https://www.getlektor.com/) - An easy to use static CMS and blog engine. - `#Python`
-- [LightCMS](https://github.com/jonradoff/lightcms) - AI-native CMS built with Go and MongoDB. Generates static HTML pages from templates. Features REST API, MCP integration with 41 tools, asset management, themes, collections, redirects, and content versioning. - `#Go`
+- [LightCMS](https://github.com/jonradoff/lightcms) - AI-native CMS built with Go and MongoDB. Generates static HTML pages from templates. Features REST API, MCP integration with 128 tools, agent sandbox editing, content versioning, llms.txt, RSS/Atom feeds and IndexNow. - `#Go`
 - [LumeCMS](https://lume.land/cms/) - `#JavaScript` `#TypeScript` `#Deno`
 - [php-flat-file](https://github.com/slogsdon/php-flat-file) - A flat-file CMS and static site generator with no database, no configuration, and Markdown content. - `#PHP` `#Markdown`
 - [Primo](https://primo.so) - An all-in-one static site builder. - `#Svelte` `#Electron`
